@@ -1,0 +1,14 @@
+{
+  "name": "3-3http",
+  "version": "1.0.0",
+  "description": "for practice only",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "tin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
